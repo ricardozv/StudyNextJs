@@ -20,5 +20,14 @@ what's is next JS ? nextjs is the framewor version of react
 #Organization folder
 <br>
 #styles
+<br>
 global.css / Global styles
+<br>
 Home.module.css / Style of modules and files
+<br>
+The public folder is for images and design files.
+<br>
+NextJs is a fullstack framework
+<br>
+In the next JS the route settings are directed to the page folder, you don't need to configure that beautiful
+<br>
