@@ -6,10 +6,10 @@ export default function FirstPost() {
   return (
     <>
       <Layout>
-       <Head>
-        <title>Sobre o Autor</title>
+      <Head>
+        <title>Development</title>
       </Head>
-      <h1>Biografia</h1>
+      <h1>Programação de computadores</h1>
       <h2>
         <Link href="/">
           <a>Back to home</a>
